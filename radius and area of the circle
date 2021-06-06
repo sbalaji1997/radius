@@ -1,0 +1,4 @@
+x=radius="1:1"
+y=areaoftheradiuswiththecircle="3.8013271108436504"
+print(x)
+print(y)
